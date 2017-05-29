@@ -62,4 +62,4 @@ typings/
 .idea
 
 # Secret data
-lib/secret
+secret
